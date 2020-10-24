@@ -9,8 +9,6 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 def check_input(input_str,input_type):
     """
-    #Appropriate data types (e.g. strings, floats) and data structures (e.g. lists, dictionaries) are chosen to carry out the required analysis tasks.
-    
     check the validity of user input.
     input_str: is the input of the user
     input_type: is the type of input: 1 = city, 2 = month, 3 = day
@@ -186,7 +184,7 @@ def user_stats(df,city):
         print('Earliest Year:',earliest_year)
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
-#Loops and conditional statements are used to process the data correctly.
+
 
 def main():
     while True:
