@@ -1,7 +1,7 @@
 # BIKE_SHARE
-This is the second project for Udacity's Data Analyst Nanodegree Program where bike rideshare data for a few select cities (New York, Chicago, and Washington, DC) are used to create a terminal application that gives a set of summary statistics for each city. This is implemented in Python.
+
+ This is the second project for Udacity's Data Analyst Nanodegree Program where bike rideshare data for a few select cities (New York, Chicago, and Washington, DC) are used to create a terminal application that gives a set of summary statistics for each city. This is implemented in Python.
 This Python script is written for Project 2 (Term 1) of Udacity's Data Analyst Nanodegree (DAND) and is used to explore data related to bike share systems for Chicago, New York City, and Washington. It imports data from csv files and compute descriptive statistics from the data. It also takes in users' raw input to create an interactive experience in the terminal to present these statistics.
- Documentation
 =======
 you need to Suitable environment for python
 our work has diffrent files 
